@@ -1,7 +1,7 @@
 # ESP32-LoRa2MQTT-Gateway-using-ESP-IDF
 In this project I use the esp-idf along with a LoRa esp-idf component library that was originally ported from Sandeep Mistry's arduino LoRa Library.  The link to the component library is [here](https://github.com/Inteform/esp32-lora-library).
 
-I also use the ssd1306 component library from (here)[https://github.com/TaraHoleInIt/tarablessd1306].
+I also use the ssd1306 component library from [here](https://github.com/TaraHoleInIt/tarablessd1306).
 
 To set up, you need to copy the "lora" folder and the "ssd1306" folder to the components folder in the esp-idf directory.  then copy the LoRa2MQTT folder to "examples/protocols/mqtt/ folder.
 
